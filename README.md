@@ -1,4 +1,4 @@
-# Fake-news-detector
+# Fake_news_detector
 
 ## Description
 
